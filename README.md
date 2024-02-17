@@ -10,12 +10,12 @@
     - LinkedIn: www.linkedin.com/in/saurabh-gupta-4972362b5
     - Email: saurabhguptaiit27@gmail.com
     - Phone: +919450174026
-- ⚡ Fun fact: Excitedly venturing into the realm of software development and have a keen interest in full stack web development.
+- ⚡ Fun fact: When I'm not coding, you might find me exploring a new travel destination, trying out a new recipe in the kitchen, or hitting the high notes in a song! 🌍🍲🎤
 
 ## My GitHub Stats
 !Your GitHub stats
 
 ## Connect with me
 !Linkedin: www.linkedin.com/in/saurabh-gupta-4972362b5
-!GitHub: saurabhguptaiit27
+!GitHub saurabhguptaiit27
 
